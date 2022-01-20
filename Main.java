@@ -77,19 +77,3 @@ public class Main {
         }
     }
 }
-
-// public static int Player(int num){
-//        if(num==1){
-//            System.out.println("Player 2 choose your field [1-9] ");
-//            Number();
-//            Display(Number(),Array());
-//            System.out.print("O");
-//            num = 0;
-//        } else {
-//            System.out.println("Player 1 choose your field [1-9] ");
-//            Number();
-//            System.out.print("X");
-//            num = 1;
-//        }
-//        return num;
-//    }
